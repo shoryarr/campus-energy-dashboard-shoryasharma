@@ -1,0 +1,4 @@
+
+    Total Energy Consumed: 2297.8 KWh
+    Highest Consuming Building: Science Block
+    
